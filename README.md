@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aslam Shehir.
 - 👀 I’m interested in wonderfull web designs and development.
-- 🌱 I’m currently learning MERAN stack Web development.
+- 🌱 I’m currently learning MERN stack Web development.
 - 💞️ I’m looking to collaborate on 🚫
 - 📫 How to reach me aslamshehiradil@gmail.com
 - 😄 Pronouns: ...
